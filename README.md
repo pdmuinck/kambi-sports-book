@@ -39,7 +39,7 @@ returns all betoffers for given event id.
 - BETPLAY
 
 ## Running
-Install Node v12.6.0 or up
+Install Node v12.6.0 or higher.
 cd to /api/src and run ```node index```
 The webserver will launch and listen to port 3000 by default.
 
