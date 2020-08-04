@@ -1,0 +1,25 @@
+{
+  "name": "kambi-sports-book",
+  "version": "1.0.0",
+  "description": "An API that provides sports betting data from sport book provider Kambi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "kambi",
+    "sports book"
+  ],
+  "author": "Pieterjan De Muinck",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "mocka": "0.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

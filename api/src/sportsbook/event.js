@@ -1,0 +1,5 @@
+const event = {}
+
+event.getAllActive = () => {
+    
+}

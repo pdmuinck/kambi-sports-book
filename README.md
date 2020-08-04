@@ -1,2 +1,8 @@
 # kambi-sports-book
-An API that provides sports betting betoffers information from Kambi, a sports book provider
+An API that provides sports betting data from sport book provider Kambi.
+
+## Setup and Running
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
