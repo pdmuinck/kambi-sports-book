@@ -38,6 +38,13 @@ returns all betoffers for given event id.
 - REDBET
 - BETPLAY
 
+## Running
+Install Node v12.6.0 or up
+cd to /api/src and run ```node index```
+The webserver will launch and listen to port 3000 by default.
+
+## Contribute
+If you are aware of bookmakers that are not listed here in the readme, please add the bookmaker and create a pull request.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
