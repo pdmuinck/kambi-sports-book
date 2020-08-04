@@ -1,6 +1,9 @@
 # kambi-sports-book
 An API that provides sports betting data from sport book provider Kambi.
 
+## API examples
+GET /bookmakers/UNIBET_BELGIUM/events?sport=football&sport=tennis
+
 ## Supported bookmakers
 - UNIBET_BELGIUM
 - UNIBET_ITALY
