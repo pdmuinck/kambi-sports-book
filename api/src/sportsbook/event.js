@@ -34,7 +34,7 @@ event.getEvents = async (book, sports) => {
         const sportsUpperCase = sports.map(sport => sport.toUpperCase())
         return resolve(Object.entries(requests).filter(pair => sportsUpperCase.includes(pair[0])).map(pair => createRequest(pair[1], book.toUpperCase(), bookmakerInfo)))
     } else {
-        return resolve(Object.values(requests).map(url => createRequest(url, book.toUpperCase(), bookmakerId)))
+        return resolve(Object.values(requests).map(url => createRequest(url, book.toUpperCase(), bookmakerInfo)))
     }
 }
 
