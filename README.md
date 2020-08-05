@@ -38,6 +38,9 @@ returns all betoffers for given event id.
 - REDBET
 - BETPLAY
 
+## Supported sports
+football, basketball, tennis, table_tennis, darts, ice_hockey, australian_rules, boxing, cricket, esports, golf, baseball, rugby_union, rugby_league, snooker, mma, volleyball, wrestling
+
 ## Running
 Install Node v12.6.0 or higher.
 cd to /api/src and run ```node index```
