@@ -15,7 +15,7 @@
   "devDependencies": {
     "axios": "^0.19.2",
     "chai": "^4.2.0",
-    "mocha": "^8.1.0"
+    "mocha": "^8.4.0"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
